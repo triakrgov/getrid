@@ -1,0 +1,6 @@
+data/slay.yass.triakr.eid.desktop.in
+data/slay.yass.triakr.eid.appdata.xml.in
+data/slay.yass.triakr.eid.gschema.xml
+src/main.vala
+src/window.vala
+src/window.ui

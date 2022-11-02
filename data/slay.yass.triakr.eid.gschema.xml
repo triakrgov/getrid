@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist gettext-domain="getrid">
+	<schema id="slay.yass.triakr.eid" path="/slay/yass/triakr/eid/">
+	</schema>
+</schemalist>
